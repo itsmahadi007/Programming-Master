@@ -305,11 +305,6 @@ namespace Programming_Master
             iconcurrentfrom.IconColor = Color.MediumPurple;
         }
 
-
-
-
-
-
         //Frag form
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
@@ -327,8 +322,6 @@ namespace Programming_Master
         {
             Application.Exit();
         }
-
-        
 
         private void maximize_Click(object sender, EventArgs e)
         {

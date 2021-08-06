@@ -73,7 +73,7 @@
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 0);
             this.panelMenu.Name = "panelMenu";
-            this.panelMenu.Size = new System.Drawing.Size(178, 731);
+            this.panelMenu.Size = new System.Drawing.Size(178, 742);
             this.panelMenu.TabIndex = 0;
             // 
             // bttnSubmission
@@ -221,7 +221,7 @@
             this.bttnAbout.IconColor = System.Drawing.Color.Gainsboro;
             this.bttnAbout.IconSize = 32;
             this.bttnAbout.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bttnAbout.Location = new System.Drawing.Point(0, 681);
+            this.bttnAbout.Location = new System.Drawing.Point(0, 692);
             this.bttnAbout.Name = "bttnAbout";
             this.bttnAbout.Padding = new System.Windows.Forms.Padding(10, 0, 20, 0);
             this.bttnAbout.Rotation = 0D;
@@ -381,7 +381,7 @@
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(51)))));
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel3.Location = new System.Drawing.Point(178, 631);
+            this.panel3.Location = new System.Drawing.Point(178, 642);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(1120, 100);
             this.panel3.TabIndex = 2;
@@ -390,7 +390,7 @@
             // 
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(100)))));
             this.panel5.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel5.Location = new System.Drawing.Point(178, 626);
+            this.panel5.Location = new System.Drawing.Point(178, 637);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1120, 5);
             this.panel5.TabIndex = 4;
@@ -401,7 +401,7 @@
             this.panel6.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel6.Location = new System.Drawing.Point(1293, 78);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(5, 548);
+            this.panel6.Size = new System.Drawing.Size(5, 559);
             this.panel6.TabIndex = 5;
             // 
             // panelDesktop
@@ -410,7 +410,7 @@
             this.panelDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelDesktop.Location = new System.Drawing.Point(183, 78);
             this.panelDesktop.Name = "panelDesktop";
-            this.panelDesktop.Size = new System.Drawing.Size(1110, 548);
+            this.panelDesktop.Size = new System.Drawing.Size(1110, 559);
             this.panelDesktop.TabIndex = 7;
             // 
             // panel7
@@ -419,7 +419,7 @@
             this.panel7.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel7.Location = new System.Drawing.Point(178, 78);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(5, 548);
+            this.panel7.Size = new System.Drawing.Size(5, 559);
             this.panel7.TabIndex = 6;
             // 
             // panelOpenProblem
@@ -469,7 +469,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1298, 731);
+            this.ClientSize = new System.Drawing.Size(1298, 742);
             this.Controls.Add(this.panelDesktop);
             this.Controls.Add(this.panel7);
             this.Controls.Add(this.panel6);

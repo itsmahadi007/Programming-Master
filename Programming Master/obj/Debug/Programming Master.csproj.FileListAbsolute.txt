@@ -65,3 +65,20 @@ E:\Project\Nahid\OfflineJudge\Coding\Programming Master\Programming Master\obj\D
 E:\Project\Nahid\OfflineJudge\Coding\Programming Master\Programming Master\obj\Debug\Programming Master.csproj.CopyComplete
 E:\Project\Nahid\OfflineJudge\Coding\Programming Master\Programming Master\obj\Debug\Programming Master.exe
 E:\Project\Nahid\OfflineJudge\Coding\Programming Master\Programming Master\obj\Debug\Programming Master.pdb
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\bin\Debug\Database.mdf
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\bin\Debug\Database_log.ldf
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\bin\Debug\Programming Master.exe.config
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\bin\Debug\Programming Master.exe
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\bin\Debug\Programming Master.pdb
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming Master.csproj.AssemblyReference.cache
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming_Master.Problem.resources
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming_Master.ProblemList.resources
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming_Master.Submit.resources
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming_Master.Mainfrm.resources
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming_Master.Properties.Resources.resources
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming Master.csproj.GenerateResource.cache
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming Master.csproj.CoreCompileInputs.cache
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming Master.csproj.CopyComplete
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming Master.exe
+C:\Users\itsma\Documents\GitHub\Programming-Master\Programming Master\obj\Debug\Programming Master.pdb
